@@ -11,7 +11,7 @@ function calculo() {
     var entrada = valorVeiculo / 2
     var parcelas = entrada / 60
     var parcelasJuros = parcelas * 1.7
-    alert('Buscando Melhor Condição...')
+    alert('Buscando Melhores Condição...')
 
     //resultado sendo exibido na tela
     resultado.innerText = `NÃO PERCA!
